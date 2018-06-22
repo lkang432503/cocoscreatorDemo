@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rightAnimate",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            41.9,
+            642.1
+          ],
+          "curve": "quartIn"
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            460,
+            -391
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

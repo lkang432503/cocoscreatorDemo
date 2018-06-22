@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ba681d0f-ac1e-465b-9849-9c07aa5fdbe2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "car_logo": {
+      "ver": "1.0.3",
+      "uuid": "5195e632-194a-4b08-8b4e-4ba1dc88a9b8",
+      "rawTextureUuid": "ba681d0f-ac1e-465b-9849-9c07aa5fdbe2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 742,
+      "height": 257,
+      "rawWidth": 750,
+      "rawHeight": 260,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

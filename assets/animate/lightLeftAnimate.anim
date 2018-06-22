@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lightLeftAnimate",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.55,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.5,
+          "curve": "quadIn"
+        },
+        {
+          "frame": 2.5,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.5,
+          "curve": "quadIn"
+        },
+        {
+          "frame": 2.5,
+          "value": 1
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -35,
+            660
+          ],
+          "curve": "quartIn"
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            -455,
+            -484
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

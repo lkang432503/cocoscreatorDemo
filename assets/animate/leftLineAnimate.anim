@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "leftLineAnimate",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -27,
+            688
+          ],
+          "curve": "quartIn"
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            -462,
+            -396
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
